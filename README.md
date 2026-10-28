@@ -12,7 +12,7 @@ Antes de comenzar, asegúrate de tener instalado:
 - [Docker](https://docs.docker.com/get-started/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/)
 
-No necesitas instalar Node.js ni configurar una base de datos localmente. Docker se encargará de ejecutar los servicios.
+Docker se encargará de ejecutar los servicios.
 
 ## 📥 1. Clonar el repositorio
 
